@@ -1,6 +1,8 @@
 # Hello-world
-- [FAQ](#faq)
+- [FAQ](#faq)  
+
 Q1: `git pull` `error: Your local changes to the following files would be overwritten by merge:`  
+
 A1:  
 ```
 git stash
@@ -9,6 +11,7 @@ git stash pop
 ```
 
 Q2: `readme.md` 图片居中  
+
 A1:  
 ```
 方法一：居中
