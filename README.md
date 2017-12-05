@@ -12,7 +12,7 @@ git stash pop
 
 Q2: `readme.md` 图片居中  
 
-A1:  
+A2:  
 ```
 方法一：居中
 <div align=center> 
