@@ -24,12 +24,12 @@ A2:
 </div>
 ```
 Q3: `git checkout -b dev` 本地新建分支第一次`push`提示:
-  
-  fatal: The current branch develop has no upstream branch.
-  To push the current branch and set the remote as upstream, use
-  git push --set-upstream origin dev
-
-A3: 按提示输入即可，以后`push`仅需要`git push origin`  
+```
+fatal: The current branch develop has no upstream branch.
+To push the current branch and set the remote as upstream, use
+git push --set-upstream origin dev
+```
+A3: 按提示输入即可，以后`push`仅需要`git push origin`  
 或者`git push -u origin dev`  
 
 
